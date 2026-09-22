@@ -1,0 +1,6 @@
+{
+  "name": "BlindHire",
+  "description": "An AI-powered, evidence-based hiring workspace that transforms job descriptions and resumes into verified skill evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
